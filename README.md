@@ -1,1 +1,1 @@
-My first readme
+A proper description will be updated
